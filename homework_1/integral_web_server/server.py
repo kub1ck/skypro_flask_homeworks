@@ -1,5 +1,5 @@
 from wsgiref.simple_server import make_server
-from integral_web_server.example import app
+from homework_1.integral_web_server.example import app
 
 
 def server(wsgi_app):
